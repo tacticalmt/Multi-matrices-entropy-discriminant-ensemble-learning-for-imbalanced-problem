@@ -1,5 +1,7 @@
 # Multi-matrices-entropy-discriminant-ensemble-learning-for-imbalanced-problem
-My first paper[Multi-matrices entropy discriminant ensemble learning for imbalanced problem.pdf](https://github.com/tacticalmt/Multi-matrices-entropy-discriminant-ensemble-learning-for-imbalanced-problem/files/6409507/Multi-matrices.entropy.discriminant.ensemble.learning.for.imbalanced.problem.pdf)
+My first paper
+
+https://link.springer.com/article/10.1007/s00521-019-04306-6
 
 
 I don't remember if the code is the final version and it maybe run on matlab either version 2010b? or 2017b. not sure
